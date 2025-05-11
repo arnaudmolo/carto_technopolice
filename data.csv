@@ -1,0 +1,745 @@
+#TYPE_EDGE;NODE1;NODE2;LIEN;SOURCE;
+EDGE;ACEL GENESYS;AN2V;est membre;https://an2v.org/membres/
+EDGE;ACTIA;AN2V;est membre;https://an2v.org/membres/
+EDGE;ACTIA;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;ACT’IV;AN2V;est membre;https://an2v.org/membres/
+EDGE;ADVANCED PROJECTS CONSULTING;AN2V;est membre;https://an2v.org/membres/
+EDGE;ALTETIA;AN2V;est membre;https://an2v.org/membres/
+EDGE;ALTRNATIV;UGAP;est fourni par;https://www.ugap.fr/altrnativ-f19315
+EDGE;ALTRNATIV;Éric Léandri;a pour actionnaire;https://www.hatvp.fr/fiche-organisation/?organisation=884983958
+EDGE;ALTROS INGÉNIERIE;AN2V;est membre;https://an2v.org/membres/
+EDGE;ALYCE;AN2V;est membre;https://an2v.org/membres/
+EDGE;ALYCE;UGAP;est fourni par;https://www.ugap.fr/alyce-f17652
+EDGE;APEX SOLUTIONS;AN2V;est membre;https://an2v.org/membres/
+EDGE;APHELIO;AN2V;est membre;https://an2v.org/membres/
+EDGE;ARASTELLE;AN2V;est membre;https://an2v.org/membres/
+EDGE;ARDANTI DEFENSE;AN2V;est membre;https://an2v.org/membres/
+EDGE;ARITECH;AN2V;est membre;https://an2v.org/membres/
+EDGE;ASC ELECTRONIQUE;AN2V;est membre;https://an2v.org/membres/
+EDGE;ATTRYA;AN2V;est membre;https://an2v.org/membres/
+EDGE;AVESCOM;AN2V;est membre;https://an2v.org/membres/
+EDGE;AVM INTEGRATION;UGAP;est fourni par;https://www.ugap.fr/avm-f15485
+EDGE;AVM INTEGRATION;vidéo verbalisation;fonctionnalité;https://www.avm-integration.com/wp-content/uploads/2019/03/AVM-CAPT-IMMAT-2017-min.pdf
+EDGE;AV PROTEC;AN2V;est membre;https://an2v.org/membres/
+EDGE;AXIS COMMUNICATIONS;AN2V;est membre;https://an2v.org/membres/
+EDGE;AXIS COMMUNICATIONS;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;AXIS COMMUNICATIONS;cameras;est fabriquant de;https://www.milestonesys.com/fr/technology-partner-finder/axis-communications/
+EDGE;AXIS COMMUNICATIONS;MILESTONE;fonctionne avec;https://www.milestonesys.com/fr/technology-partner-finder/axis-communications/
+EDGE;AZURSOFT;AN2V;est membre;https://an2v.org/membres/
+EDGE;AZURSOFT;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;BARKENE;AN2V;est membre;https://an2v.org/membres/
+EDGE;BOSCH SECURITY;UGAP;est fourni par;https://www.ugap.fr/bosch-f16765
+EDGE;BOSCH SECURITY;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;BOSCH SECURITY;MILESTONE;fonctionne avec;https://www.milestonesys.com/fr/technology-partner-finder/bosch-security-systems-b.v/bosch-object-detection--ai-alarm-verification/
+EDGE;BRIEFCAM;UGAP;est fourni par;https://www.ugap.fr/canon-f17548
+EDGE;BRIEFCAM;CANON;a pour actionnaire;https://www.ugap.fr/canon-f17548
+EDGE;CABINET D’AVOCATS DU MANOIR DE JUAYE;AN2V;est membre;https://an2v.org/membres/
+EDGE;CAMTRACE;AN2V;est membre;https://an2v.org/membres/
+EDGE;CAP SECURITE;AN2V;est membre;https://an2v.org/membres/
+EDGE;CASD;AN2V;est membre;https://an2v.org/membres/
+EDGE;CASD;UGAP;est fourni par;https://www.ugap.fr/casd-f17224
+EDGE;CELLEBRITE;UGAP;est fourni par;https://www.ugap.fr/cellebrite-f16984
+EDGE;CELLEBRITE;exploitation téléphone portable;fonctionnalité;https://fr.wikipedia.org/wiki/Cellebrite
+EDGE;CELLHIRE;AN2V;est membre;https://an2v.org/membres/
+EDGE;CHAPSVISION;AN2V;est membre;https://an2v.org/membres/
+EDGE;CHAPSVISION;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=851035329#&fiche=YVNWILKV
+EDGE;CHAPSVISION;Marché JOP;a candidaté;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+EDGE;CHOUETTE CONSULTING;AN2V;est membre;https://an2v.org/membres/
+EDGE;CHUBB FIRE AND SECURITY;AN2V;est membre;https://an2v.org/membres/
+EDGE;CITEOS;AN2V;est membre;https://an2v.org/membres/
+EDGE;CITYPROTECT;AN2V;est membre;https://an2v.org/membres/
+EDGE;CNM INTERNATIONAL;AN2V;est membre;https://an2v.org/membres/
+EDGE;COJITECH;AN2V;est membre;https://an2v.org/membres/
+EDGE;COMMEND;AN2V;est membre;https://an2v.org/membres/
+EDGE;CONECTIS BY REXEL;AN2V;est membre;https://an2v.org/membres/
+EDGE;DAHUA;AN2V;est membre;https://an2v.org/membres/
+EDGE;DAHUA;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;DALKIA ELECTROTECHNIC CITELUM;AN2V;est membre;https://an2v.org/membres/
+EDGE;DALLMEIER ELECTRONIC;AN2V;est membre;https://an2v.org/membres/
+EDGE;DERICHEBOURG – TECHNOLOGIES;AN2V;est membre;https://an2v.org/membres/
+EDGE;DETER SYSTEM;AN2V;est membre;https://an2v.org/membres/
+EDGE;DISAITEK;UGAP;est fourni par;https://www.ugap.fr/disaitek-f19394
+EDGE;EBOO SOLUTIONS;AN2V;est membre;https://an2v.org/membres/
+EDGE;E-CONEX;AN2V;est membre;https://an2v.org/membres/
+EDGE;EIFFAGE ENERGIE SYSTEMES;AN2V;est membre;https://an2v.org/membres/
+EDGE;EIZO France;AN2V;est membre;https://an2v.org/membres/
+EDGE;ERYMA / SOGETREL;AN2V;est membre;https://an2v.org/membres/
+EDGE;EVIDEN;AN2V;est membre;https://an2v.org/membres/
+EDGE;EVIDEN;ATOS;a pour actionnaire;https://atos.net/fr/2025/communiques-de-presse_2025_02_24/eviden-devoile-une-nouvelle-generation-de-serveurs-dentreprise-pour-lia-et-les-applications-critiques
+EDGE;IPSOTEK;ATOS;a pour actionnaire;https://www.laquadrature.net/2024/01/26/vsa-et-jeux-olympiques-coup-denvoi-pour-les-entreprises-de-surveillance/
+EDGE;ATOS;CEIS;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=414881821
+EDGE;IPSOTEK;MILESTONE;fonctionne avec;https://www.milestonesys.com/technology-partner-finder/ipsotek-an-eviden-business/ipsotek-visuite-ai-video-analytics/
+EDGE;IPSOTEK;VSA;fonctionnalité;https://www.milestonesys.com/technology-partner-finder/ipsotek-an-eviden-business/ipsotek-visuite-ai-video-analytics/
+EDGE;OBS-EVIDENT;Marché JOP;a candidaté;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+EDGE;EVITECH;AN2V;est membre;https://an2v.org/membres/
+EDGE;FAIRVIEW;AN2V;est membre;https://an2v.org/membres/
+EDGE;FEEDER;AN2V;est membre;https://an2v.org/membres/
+EDGE;FIDUCIAL SECURITE;AN2V;est membre;https://an2v.org/membres/
+EDGE;CHAPSVISION;UGAP;est fourni par;https://www.ugap.fr/flandrin-f17411
+EDGE;CHAPSVISION;VSA;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+EDGE;CHAPSVISION;Logiciel d'investigation;fonctionnalité;https://www.ugap.fr/flandrin-f17411
+EDGE;CHAPSVISION;IMSI Catchers;fonctionnalité;https://www.ugap.fr/flandrin-f17411
+EDGE;FORMIND;AN2V;est membre;https://an2v.org/membres/
+EDGE;FOXSTREAM;AN2V;est membre;https://an2v.org/membres/
+EDGE;FRANCOFA-EURODIS;AN2V;est membre;https://an2v.org/membres/
+EDGE;GAARD;AN2V;est membre;https://an2v.org/membres/
+EDGE;GAVEAU A.M.O.;AN2V;est membre;https://an2v.org/membres/
+EDGE;GEMALTO;reconnaissance faciale;fonctionnalité;https://www2.assemblee-nationale.fr/content/download/82754/922439/version/1/file/Note+Scientifique+-+Reconnaissance+Faciale+-+VF+19072019.pdf
+EDGE;GIORDANA INGENIERIE;AN2V;est membre;https://an2v.org/membres/
+EDGE;GOSECURE;AN2V;est membre;https://an2v.org/membres/
+EDGE;GROUPE PERIN SÉCURITÉ;AN2V;est membre;https://an2v.org/membres/
+EDGE;GROUPE PERIN SÉCURITÉ;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;HANWHA TECHWIN;AN2V;est membre;https://an2v.org/membres/
+EDGE;HANWHA TECHWIN;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;HARPER INGENIERIE;AN2V;est membre;https://an2v.org/membres/
+EDGE;HCD;AN2V;est membre;https://an2v.org/membres/
+EDGE;HIKVISION;AN2V;est membre;https://an2v.org/membres/
+EDGE;HIKVISION;PERIFEM;est membre de;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;PERIFEM;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=321702755#&fiche=QV7TJTFH
+EDGE;HIKVISION;PERIFEM;est membre de;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;HUAWEI;ville de Valenciennes;est utilisé par;https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/cion-cedu/l16cion-cedu2223034_compte-rendu
+#EDGE;HUAWEI;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=451063739
+EDGE;IBS’ON;AN2V;est membre;https://an2v.org/membres/
+EDGE;IDEMIA IDENTITY SECURITY;UGAP;est fourni par;https://www.ugap.fr/idemia-f17257
+EDGE;IDEMIA;reconnaissance faciale;fonctionnalité;https://www2.assemblee-nationale.fr/content/download/82754/922439/version/1/file/Note+Scientifique+-+Reconnaissance+Faciale+-+VF+19072019.pdf
+EDGE;IFOTEC;AN2V;est membre;https://an2v.org/membres/
+EDGE;IER;UGAP;est fourni par;https://www.ugap.fr/impression-f2137
+EDGE;IER;BOLLORE;a pour actionnaire;https://www.ugap.fr/impression-f2137
+EDGE;IER;verbalisation électronique;fonctionnalité;https://www.ugap.fr/impression-f2137
+EDGE;IER;ville de Lyon;a pour client;https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+EDGE;IER;ville de Nice;a pour client;https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+EDGE;IER;ville de Paris;a pour client;https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+EDGE;IER;ville de Versailles;a pour client;https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+EDGE;IER;ville de Nancy;a pour client;https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+EDGE;IER;ville de Bordeaux;a pour client;https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+EDGE;IER;ville de Troyes;a pour client;https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+EDGE;EQUANS;AN2V;est membre;https://an2v.org/membres/
+EDGE;EQUANS;UGAP;est fourni par;https://www.ugap.fr/ineo-f19771
+EDGE;EQUANS;ville de Saint-Etienne;a pour client;https://www.ugap.fr/ineo-f19771
+EDGE;INKIVARI;AN2V;est membre;https://an2v.org/membres/
+EDGE;INLO;AN2V;est membre;https://an2v.org/membres/
+EDGE;INOA SOLUTIONS;AN2V;est membre;https://an2v.org/membres/
+EDGE;INVISSYS;AN2V;est membre;https://an2v.org/membres/
+EDGE;IPARTNER;UGAP;est fourni par;https://www.ugap.fr/ipartner-f19445
+EDGE;I-PRO;AN2V;est membre;https://an2v.org/membres/
+EDGE;ISS PARTNERS;AN2V;est membre;https://an2v.org/membres/
+EDGE;JF SULZER CONSEIL;AN2V;est membre;https://an2v.org/membres/
+EDGE;JOHN COCKERILL DEFENSE;AN2V;est membre;https://an2v.org/membres/
+EDGE;JUST DO IP;AN2V;est membre;https://an2v.org/membres/
+EDGE;LA ROBE NUMERIQUE;AN2V;est membre;https://an2v.org/membres/
+EDGE;LILATECH;AN2V;est membre;https://an2v.org/membres/
+EDGE;LM INGENIERIE;AN2V;est membre;https://an2v.org/membres/
+EDGE;LOGIROAD;UGAP;est fourni par;https://www.ugap.fr/logiroad-f17530
+EDGE;LOOPGRADE;AN2V;est membre;https://an2v.org/membres/
+EDGE;LOSANGE;AN2V;est membre;https://an2v.org/membres/
+EDGE;LUMATECH SOLUTIONS & SERVICES;AN2V;est membre;https://an2v.org/membres/
+EDGE;MIDGARD;UGAP;est fourni par;https://www.ugap.fr/midgard-f19346
+EDGE;MILEO TECHNOLOGY;AN2V;est membre;https://an2v.org/membres/
+EDGE;MILESTONE;UGAP;est fourni par;https://www.ugap.fr/milestone-f17070
+EDGE;MOTOROLA SOLUTIONS;AN2V;est membre;https://an2v.org/membres/
+EDGE;NEOVYA MOBILITY BY TECHNOLOGY;UGAP;est fourni par;https://www.ugap.fr/neovya-f19341
+EDGE;NETWORK OPTIX;AN2V;est membre;https://an2v.org/membres/
+EDGE;NEURONALYS;AN2V;est membre;https://an2v.org/membres/
+EDGE;NGE CONNECT;AN2V;est membre;https://an2v.org/membres/
+EDGE;O’MALLEY CONSULTING;AN2V;est membre;https://an2v.org/membres/
+EDGE;OMNITECH SECURITY;AN2V;est membre;https://an2v.org/membres/
+EDGE;ONDO ENERGIES;AN2V;est membre;https://an2v.org/membres/
+EDGE;ONET SECURITE SYSTEMES;AN2V;est membre;https://an2v.org/membres/
+EDGE;OPTEX SECURITY;AN2V;est membre;https://an2v.org/membres/
+EDGE;OPTIMEX DATA;AN2V;est membre;https://an2v.org/membres/
+EDGE;ORKIS;UGAP;est fourni par;https://www.ugap.fr/orkis-f16844
+EDGE;ORKIS;reconnaissance faciale;fonctionnalité;https://www.ugap.fr/orkis-f16844
+EDGE;PA CONSEIL;AN2V;est membre;https://an2v.org/membres/
+EDGE;PASCAL MEHEUX;AN2V;est membre;https://an2v.org/membres/
+EDGE;PNY TECHNOLOGIES;AN2V;est membre;https://an2v.org/membres/
+EDGE;PROCONSULTING;AN2V;est membre;https://an2v.org/membres/
+EDGE;PRYNTEC – GROUPE TEB;AN2V;est membre;https://an2v.org/membres/
+EDGE;PRYSM SOFTWARE;AN2V;est membre;https://an2v.org/membres/
+EDGE;RECONEYEZ;AN2V;est membre;https://an2v.org/membres/
+EDGE;RESO;AN2V;est membre;https://an2v.org/membres/
+EDGE;RISÔM;AN2V;est membre;https://an2v.org/membres/
+EDGE;RIVIERA PERFORMANCE CONSULTING;AN2V;est membre;https://an2v.org/membres/
+EDGE;SDCT;AN2V;est membre;https://an2v.org/membres/
+EDGE;SECURE CONSEIL;AN2V;est membre;https://an2v.org/membres/
+EDGE;SECURE SYSTEMS & SERVICES;AN2V;est membre;https://an2v.org/membres/
+EDGE;SECURITON;AN2V;est membre;https://an2v.org/membres/
+EDGE;SERENICITY;AN2V;est membre;https://an2v.org/membres/
+EDGE;SERFIM T.I.C.;AN2V;est membre;https://an2v.org/membres/
+EDGE;SERIS SECURITY;AN2V;est membre;https://an2v.org/membres/
+EDGE;SERIS SECURITY;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;AXIS COMMUNICATIONS;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;SFC ENERGY AG;AN2V;est membre;https://an2v.org/membres/
+EDGE;SIALERT / SENSIVIC;AN2V;est membre;https://an2v.org/membres/
+EDGE;SIMONS VOSS TECHNOLOGIES;AN2V;est membre;https://an2v.org/membres/
+EDGE;SIMPLE HELP;AN2V;est membre;https://an2v.org/membres/
+EDGE;SIRADEL;UGAP;est fourni par;https://www.ugap.fr/siradel-f19859
+EDGE;SLAT;AN2V;est membre;https://an2v.org/membres/
+EDGE;SNEF;AN2V;est membre;https://an2v.org/membres/
+EDGE;SNEF;UGAP;est fourni par;https://www.ugap.fr/snef-f7150
+EDGE;SOBECA GROUPE FIRALP;AN2V;est membre;https://an2v.org/membres/
+EDGE;SPIE CITYNETWORKS;AN2V;est membre;https://an2v.org/membres/
+EDGE;STALICO-GR TECHNICS;AN2V;est membre;https://an2v.org/membres/
+EDGE;STANDBY;AN2V;est membre;https://an2v.org/membres/
+EDGE;STID;AN2V;est membre;https://an2v.org/membres/
+EDGE;STRATEGIE CONCEPT;AN2V;est membre;https://an2v.org/membres/
+EDGE;SUR&TIS REGIONS;AN2V;est membre;https://an2v.org/membres/
+EDGE;SURVISION;AN2V;est membre;https://an2v.org/membres/
+EDGE;SYNOLOGY;AN2V;est membre;https://an2v.org/membres/
+EDGE;SYPULSE;AN2V;est membre;https://an2v.org/membres/
+EDGE;TACTIS;AN2V;est membre;https://an2v.org/membres/
+EDGE;TATTILE;AN2V;est membre;https://an2v.org/membres/
+EDGE;TECHNIMAST;AN2V;est membre;https://an2v.org/membres/
+EDGE;THALES;La défense;est utilisé par;https://www.defense-92.fr/securite/thales-veut-rendre-le-quartier-de-la-defense-plus-sur-avec-sa-solution-safe-city-51211
+EDGE;THALES;Safe city;fonctionnalité;https://www.defense-92.fr/securite/thales-veut-rendre-le-quartier-de-la-defense-plus-sur-avec-sa-solution-safe-city-51211
+EDGE;TRACOR;AN2V;est membre;https://an2v.org/membres/
+EDGE;TRANSOFT SOLUTIONS;UGAP;est fourni par;https://www.ugap.fr/transoft-f18806
+EDGE;TWO-I;ALTRNATIV;est sous-traitant de;https://www.streetpress.com/sujet/1730128027-mairie-saint-denis-mathieu-hanotin-video-surveillance-algorithmique-logiciel-cameras-technologie-intelligence-artificielle
+EDGE;TWO-I;AN2V;est membre;https://an2v.org/membres/
+EDGE;TWO-I;reconnaissance faciale;fonctionnalité;https://www.mediapart.fr/journal/france/300724/en-catimini-saint-denis-achete-un-logiciel-de-surveillance-algorithmique
+EDGE;TWO-I;ville de Saint-Denis;est utilisé par;https://www.mediapart.fr/journal/france/300724/en-catimini-saint-denis-achete-un-logiciel-de-surveillance-algorithmique
+EDGE;UNI-SAT;AN2V;est membre;https://an2v.org/membres/
+EDGE;VDSYS;AN2V;est membre;https://an2v.org/membres/
+EDGE;VERKADA;AN2V;est membre;https://an2v.org/membres/
+EDGE;VIDETICS;AN2V;est membre;https://an2v.org/membres/
+EDGE;VIDETICS;Marché JOP;a candidaté;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+EDGE;VIDETICS;UGAP;est fourni par;https://www.ugap.fr/editeurs-logiciels/videtics-f30434
+EDGE;VIDETICS;ville de Cannes;est utilisé par;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+EDGE;VIDETICS;VSA;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;VIDETICS;VSA - armes à feu;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+EDGE;VIZZIA;AN2V;est membre;https://an2v.org/membres/
+EDGE;VIZZIA;UGAP;est fourni par;https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+EDGE;VIZZIA;VSA;fonctionnalité;https://mamot.fr/@LaQuadrature/113401936237955107
+#EDGE;VIZZIA;VSA - dépot d'ordure;fonctionnalité;https://mamot.fr/@LaQuadrature/113401936237955107
+EDGE;VIZZIA;ville de Méru;a pour client;https://mamot.fr/@LaQuadrature/113401936237955107
+EDGE;VIZZIA;ville de Villeneuve-sur-Lot;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville de Mulhouse;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;CITEOS;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville de Montélimar;a pour client;https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+EDGE;VIZZIA;ville de Donzère;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville de Paris;a pour client;https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+EDGE;VIZZIA;ville d'Athis-Mons;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville d'Ollioules;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville de Garges-lès-Gonesse;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;Communauté de communes Drôme Sud Provence;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville de Bonifacio;a pour client;https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+EDGE;VIZZIA;ville de Valbonne Sophia Antipolis;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville de Bourges;a pour client;https://www.vizzia.com/nos-references
+EDGE;VIZZIA;ville de Saint-Tropez;a pour client;https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+EDGE;VIZZIA;ville du Havre;a pour client;https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+EDGE;VXCORE – MA2;AN2V;est membre;https://an2v.org/membres/
+EDGE;WARYME;AN2V;est membre;https://an2v.org/membres/
+EDGE;WINTICS;AN2V;est membre;https://an2v.org/membres/
+EDGE;WINTICS;Eiffage;est sous-traitant de;https://www.senat.fr/rap/r24-447/r24-447_mono.html
+EDGE;WINTICS;Marché JOP;a candidaté;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+EDGE;WINTICS;Préfecture de Police de Paris;a pour client;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+EDGE;WINTICS;RATP;a pour client;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information|https://www.senat.fr/rap/r24-374/r24-3745.html#fnref22
+EDGE;WINTICS;SNCF;a pour client;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information|https://www.senat.fr/rap/r24-374/r24-3745.html#fnref22
+EDGE;WINTICS;UGAP;est fourni par;https://www.ugap.fr/wintics-fiche_19383
+EDGE;WINTICS;Vinci;est sous-traitant de;https://www.senat.fr/rap/r24-447/r24-447_mono.html
+EDGE;WINTICS;ville de Paris;a pour client;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;ville de Nice;a pour client;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;ville de Nime;a pour client;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;Monaco;a pour client;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;Ministère de l'Intérieur;a pour client;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;ADP;a pour client;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;VSA;fonctionnalité non fonctionnelle;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - armes à feu;fonctionnalité non fonctionnelle;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - densité de personnes;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - détection des départs de feu;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - intrusion dans une zone non autorisée;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - la circulation dans un sens non autorisé;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - mouvements de foule;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - objets abandonnés;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+#EDGE;WINTICS;VSA - personnes au sol à la suite d’une chute;fonctionnalité;https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+EDGE;XP-GUYON;AN2V;est membre;https://an2v.org/membres/
+EDGE;XXII GROUP;AN2V;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=810761783
+EDGE;XXII GROUP;reconnaissance faciale;fonctionnalité;https://www2.assemblee-nationale.fr/content/download/82754/922439/version/1/file/Note+Scientifique+-+Reconnaissance+Faciale+-+VF+19072019.pdf
+EDGE;XXII GROUP;UGAP;est fourni par;https://www.ugap.fr/xxii-f17412
+EDGE;CASD;vidéo verbalisation;fonctionnalité;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;VMS - hyperviseur;fonctionnalité;https://www.ugap.fr/casd-f17224
+EDGE;GENETEC;PERIFEM;est membre de;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;GENETEC;VMS - hyperviseur;fonctionnalité;
+EDGE;MILESTONE;VMS - hyperviseur;fonctionnalité;fiche_17070_Milestone_présentation.pdf
+EDGE;ACTIA;VMS - hyperviseur;fonctionnalité;
+EDGE;PRYSM;VMS - hyperviseur;fonctionnalité;
+EDGE;EGIDIUM;VMS - hyperviseur;fonctionnalité;
+EDGE;WINTICS;CASD;fonctionne avec;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;GENETEC;fonctionne avec;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;MILESTONE;fonctionne avec;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;ACTIA;fonctionne avec;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;PRYSM;fonctionne avec;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;WINTICS;EGIDIUM;fonctionne avec;https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EDGE;XXII GROUP;MILESTONE;fonctionne avec;https://www.milestonesys.com/technology-partner-finder/xxii/core/
+EDGE;XXII GROUP;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/xxii
+EDGE;XXII GROUP;VSA;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/xxii/xxiicore
+#EDGE;XXII GROUP;VSA - dépot d'ordure;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/xxii/xxiicore
+#EDGE;XXII GROUP;VSA - départ de feux;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/xxii/xxiicore
+#EDGE;XXII GROUP;VSA - présence suspecte;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/xxii/xxiicore
+EDGE;XXII GROUP;ville de Massy;a pour client;https://www.ugap.fr/xxii-f17412
+EDGE;XXII GROUP;CMA CGM;a pour actionnaire;https://www.lalettre.fr/fr/entreprises/2024/11/13/cma-cgm-entre-au-capital-de-la-start-up-xxii,110339136-bre
+EDGE;ULTINOUS;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/ultinous
+EDGE;ULTINOUS;VSA;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - intrusion;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - zone dangereuse;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - détection multi-objets;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - foule;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - franchissement de zone;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - présence suspecte;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - arrêt;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - mauvaise direction;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+#EDGE;ULTINOUS;VSA - détection de chute;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+EDGE;BOSCH SECURITY;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/bosch
+EDGE;BOSCH SECURITY;Cameras;est fabriquant de;https://www.genetec.com/partners/partner-integration-hub/bosch
+EDGE;VIISIGHTS;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/viisights
+EDGE;VIISIGHTS;MILESTONE;fonctionne avec;https://www.milestonesys.com/technology-partner-finder/viisights/viisights-wise-covid-19-plugin/
+EDGE;VIISIGHTS;VSA;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/viisights
+#EDGE;VIISIGHTS;VSA - armes à feu;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/viisights
+#EDGE;VIISIGHTS;VSA - mouvements de foule;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/viisights
+EDGE;BOSCH SECURITY;VSA - traffic;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/bosch/video-analytics-its
+EDGE;ONEBERRY;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/oneberry
+EDGE;ONEBERRY;VSA;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/oneberry
+#EDGE;ONEBERRY;VSA - traffic;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/oneberry
+EDGE;ECONNECT;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/econnect
+EDGE;ECONNECT;reconnaissance faciale;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/econnect
+EDGE;BRIEFCAM;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/briefcam/briefcam
+EDGE;BRIEFCAM;Analyse vidéo;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/briefcam/briefcam|fiche_17548_BriefCamV6_FR_\(1\).pdf
+EDGE;BRIEFCAM;reconnaissance faciale;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/briefcam/briefcam|fiche_17548_BriefCamV6_FR_\(1\).pdf
+EDGE;VAIDIO;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/ironyun/vaidio
+EDGE;VAIDIO;VSA;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ironyun/vaidio
+#EDGE;VAIDIO;VSA - armes à feu;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ironyun/vaidio
+EDGE;AMBIENT.AI;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/ambient.ai/integration
+EDGE;AMBIENT.AI;VSA;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/ambient.ai/integration
+EDGE;OMNILERT;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/omnilert/omnilert-gun-detect
+EDGE;OMNILERT;VSA;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/omnilert/omnilert-gun-detect
+#EDGE;OMNILERT;VSA - armes à feu;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/omnilert/omnilert-gun-detect
+EDGE;I-PRO;GENETEC;fonctionne avec;https://www.genetec.com/partners/partner-integration-hub/i-pro/activeguard
+EDGE;I-PRO;MILESTONE;fonctionne avec;https://www.milestonesys.com/fr/technology-partner-finder/i-pro--co.-ltd/i-pro-active-guard-plug-in-for-xprotect/
+EDGE;I-PRO;Analyse vidéo;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/i-pro/activeguard
+EDGE;I-PRO;reconnaissance faciale;fonctionnalité;https://www.genetec.com/partners/partner-integration-hub/i-pro/activeguard
+EDGE;INCORESOFT;MILESTONE;fonctionne avec;https://www.milestonesys.com/technology-partner-finder/incoresoft-llc/vezha-gender-and-age-detection/
+EDGE;INCORESOFT;reconnaissance faciale;fonctionnalité;https://incoresoft.com/products/face-recognition/
+EDGE;VEESION;VSA;https://veesion.io/notre-solution/
+#EDGE;VEESION;VSA - Vol;fonctionnalité;https://veesion.io/notre-solution/
+EDGE;VEESION;HATVP;fait du lobbying;https://www.hatvp.fr/le-repertoire/repertoire-resultats-activites/?searchbox=%22veesion%22
+EDGE;VEESION;PERIFEM;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+EDGE;XXII GROUP;HATVP;fait du lobbying;https://www.hatvp.fr/le-repertoire/repertoire-resultats-activites/?searchbox=%22XXII%22
+EDGE;AN2V;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=479807810##
+EDGE;ALTRNATIV;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=533445318#&fiche=O3WXO0KH|https://www.hatvp.fr/fiche-organisation/?organisation=818007288
+EDGE;AVM INTEGRATION;ville du Kremlin-Bicêtre;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Puteaux;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Vincennes;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Libourne;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Juvisy sur orge;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;Communauté de commune de Versailles;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;Communauté de communes Grand Paris Sud;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;Communauté de communes de Nantes;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Pierrefitte;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Tremblay en France;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Rueil Malmaison;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de La garennes colombes;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Sucy en brie;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Levallois;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Perret;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Chatou;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Mézieux;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;Aéroport de Beauvais;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;Aéroport de Mérignac;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Malakoff;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Montrouge;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville de Chanteloup les vignes;a pour client;fiche_15485_Références_CAPT_IMMAT.pdf
+EDGE;AVM INTEGRATION;ville d'Ajaccio;a pour client;fiche_15485_Presentation_AVM.pdf
+EDGE;AVM INTEGRATION;Préfecture de Police de Paris;a pour client;fiche_15485_Presentation_AVM.pdf
+EDGE;AVM INTEGRATION;GENETEC;fonctionne avec;https://www.avm-integration.com/partenaires/genetec/
+EDGE;MILESTONE;CANON;a pour actionnaire;fiche_17070_Milestone_présentation.pdf
+EDGE;CASD;ville d'Aix en Provence;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville d'Annemasse;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville d'Antibes;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville d'Arras;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Bé­thune;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Bourg-en-Bresse;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Calais;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Cannes;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Chalon-sur-Saône;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Chambéry;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Chamonix;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Chartres Métropole;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Colmar;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Courchevel;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Douai;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Dunkerque;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Grand Nancy;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Grenoble;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de La Baule;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Laval;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Lyon;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Metz;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Montpellier;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Morzine-Avoriaz;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Mulhouse;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Nice;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Nîmes;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Pau;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Quimper;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Rennes;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Roanne;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Saint-Brieuc;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Saint­-Etienne;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Saint-Maur-des-Fossés;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Saint-Tropez;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Strasbourg;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Toulon;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Tourcoing;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Valence;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Vannes;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Vienne;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;CASD;ville de Villeurbanne;a pour client;fiche_17224_CASD_plaquette.pdf
+EDGE;IPARTNER;vidéo verbalisation;fonctionnalité;fiche_19445_Fiche_produit_IPARTNER_VIDEOVERBALISATION_FR.pdf|fiche_19445_Fiche_produit_IPARTNER_DUTYLOG_FR.pdf
+EDGE;IPARTNER;VMS - hyperviseur;fonctionnalité;https://www.ugap.fr/ipartner-f19445
+EDGE;IPARTNER;MILESTONE;fonctionne avec;fiche_19445_Fiche_produit_IPARTNER_DATACONNECTOR_FR.pdf
+EDGE;EQUANS;RATP;a pour client;fiche_19771_Presentation_Generale_Equans_Digital_(avec_pôles).pdf
+EDGE;EQUANS;Préfecture de Police de Paris;a pour client;fiche_19771_Presentation_Generale_Equans_Digital_(avec_pôles).pdf
+EDGE;EQUANS;ville de Marseille;a pour client;fiche_19771_Presentation_Generale_Equans_Digital_(avec_pôles).pdf
+EDGE;EQUANS;Préfecture du Rhône;a pour client;fiche_19771_Interconnexion_video_BELVEDERE_-_plaquette_commerciale_v3.pdf
+EDGE;EQUANS;ville de Lille;a pour client;https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+EDGE;EQUANS;RATP;a pour client;https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+EDGE;EQUANS;MILESTONE;fonctionne avec;fiche_19771_Interconnexion_video_BELVEDERE_-_plaquette_commerciale_v3.pdf|https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+EDGE;EQUANS;MILESTONE;est intégrateur de;https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+EDGE;EQUANS;BOUYGUES;a pour actionnaire;https://www.equans.fr/nous-decouvrir/qui-sommes-nous/histoire
+EDGE;EQUANS;interconnexion vidéo;fonctionnalité;https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+EDGE;XXII GROUP;ville de Suresnes;a pour client;https://www.leparisien.fr/hauts-de-seine-92/suresnes-92150/dans-les-rues-de-suresnes-l-intelligence-artificielle-prete-a-traquer-les-comportements-suspects-03-04-2021-8430581.php
+EDGE;SNEF;ville de Marseille;a pour client;https://gomet.net/snef-connect-marseille-porte-par-le-marche-de-la-videoprotection-urbaine/
+EDGE;THEMYS;SNCF;a pour client;https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+EDGE;BOSCH SECURITY;THEMYS;a pour client;https://www.themysgroup.com/our-solutions-cctv-et-optronics-w1.html
+EDGE;AXIS COMMUNICATIONS;THEMYS;a pour client;https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+EDGE;VIDEOTECH;THEMYS;a pour client;https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+EDGE;VIDEOTECH;cameras;est fabriquant de;https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+EDGE;ACTI;cameras;est fabriquant de;https://www.acti.com/technologies/face-recognition
+EDGE;HIKVISION;cameras;est fabriquant de;https://www.hikvision.com/fr/core-technologies/ai-analytics/facial-recognition/
+EDGE;INFINOVA;cameras;est fabriquant de;https://issuu.com/securitymiddleeastmagazine/docs/sme_jan_feb_2019_web2/32
+EDGE;PELCO;cameras;est fabriquant de;https://www.pelco.com/partners/technical-partners/videoxpert-integrations/nevalabs-videoxpert-integration
+EDGE;AN2V;CICS;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=829519289
+EDGE;SIEMENS;AN2V;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=562016774
+EDGE;ALTRNATIV;CEIS;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=414881821
+EDGE;THALES;CEIS;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=414881821
+EDGE;ACTIA;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;ATOS;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;AXIS COMMUNICATIONS;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;ARDANTI DEFENSE;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;EGIDIUM;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;ERYMA;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;FIDUCIAL SECURITE;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;IDEMIA IDENTITY SECURITY;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;JOHN COCKERILL DEFENSE;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;EQUANS;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;THALES;GICAT;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EDGE;CANON;HATVP;fait du lobbbying;https://www.hatvp.fr/fiche-organisation/?organisation=901812255#&fiche=0V2A7BOV
+EDGE;CEIS;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=813595477
+EDGE;CHAPSVISION;HATVP;fait du lobbbying;https://www.hatvp.fr/fiche-organisation/?organisation=890232788#&fiche=UHQ7N0FV
+EDGE;EQUANS;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=892318312|https://www.hatvp.fr/fiche-organisation/?organisation=572015246#&fiche=0VES6OEH
+EDGE;EVIDEN;GICAN;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=784360109
+EDGE;THEMYS;GICAN;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=784360109
+EDGE;GEMALTO;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=502999626#&fiche=19V0ML5H
+EDGE;IDEMIA;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=340709534#&fiche=DVSJ8S8V
+EDGE;RATP;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=775663438#&fiche=W3UW57YV
+EDGE;SERENICITY;Cyber Task Force;est membre;https://www.hatvp.fr/fiche-organisation/?organisation=818007288#&fiche=DHMZ5MSV
+EDGE;Cyber Task Force;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=818007288#&fiche=DHMZ5MSV
+EDGE;SNCF;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=H659245363#&fiche=Y3K4FXKH
+EDGE;SNEF;HATVP;fait du lobbbying;https://www.hatvp.fr/fiche-organisation/?organisation=537519449|https://www.hatvp.fr/fiche-organisation/?organisation=793795352#&fiche=LV1D00N3
+EDGE;THALES;HATVP;fait du lobbying;https://www.hatvp.fr/fiche-organisation/?organisation=552059024
+#TYPE_NODE;NOM;TYPE DE NOEUD;
+NODE;ADP;Acteur public
+NODE;Aéroport de Beauvais;Acteur public
+NODE;Aéroport de Mérignac;Acteur public
+NODE;Communauté de commune de Versailles;Acteur public
+NODE;Communauté de communes de Nantes;Acteur public
+NODE;Communauté de communes Drôme Sud Provence;Acteur public
+NODE;Communauté de communes Grand Paris Sud;Acteur public
+NODE;Ministère de l'Intérieur;Acteur public
+NODE;Monaco;Acteur public
+NODE;Préfecture de Police de Paris;Acteur public
+NODE;Préfecture du Rhône;Acteur public
+NODE;RATP;Acteur public
+NODE;SNCF;Acteur public
+NODE;SNCF;Acteur public
+NODE;ville d'Aix en Provence;Acteur public
+NODE;ville d'Ajaccio;Acteur public
+NODE;ville d'Annemasse;Acteur public
+NODE;ville d'Antibes;Acteur public
+NODE;ville d'Arras;Acteur public
+NODE;ville d'Athis-Mons;Acteur public
+NODE;ville de Bé­thune;Acteur public
+NODE;ville de Bonifacio;Acteur public
+NODE;ville de Bordeaux;Acteur public
+NODE;ville de Bourg-en-Bresse;Acteur public
+NODE;ville de Bourges;Acteur public
+NODE;ville de Calais;Acteur public
+NODE;ville de Cannes;Acteur public
+NODE;ville de Chalon-sur-Saône;Acteur public
+NODE;ville de Chambéry;Acteur public
+NODE;ville de Chamonix;Acteur public
+NODE;ville de Chanteloup les vignes;Acteur public
+NODE;ville de Chartres Métropole;Acteur public
+NODE;ville de Chatou;Acteur public
+NODE;ville de Colmar;Acteur public
+NODE;ville de Courchevel;Acteur public
+NODE;ville de Donzère;Acteur public
+NODE;ville de Douai;Acteur public
+NODE;ville de Dunkerque;Acteur public
+NODE;ville de Garges-lès-Gonesse;Acteur public
+NODE;ville de Grand Nancy;Acteur public
+NODE;ville de Grenoble;Acteur public
+NODE;ville de Juvisy sur orge;Acteur public
+NODE;ville de La Baule;Acteur public
+NODE;ville de La garennes colombes;Acteur public
+NODE;ville de Laval;Acteur public
+NODE;ville de Levallois;Acteur public
+NODE;ville de Libourne;Acteur public
+NODE;ville de Lille;Acteur public
+NODE;ville de Lyon;Acteur public
+NODE;ville de Lyon;Acteur public
+NODE;ville de Malakoff;Acteur public
+NODE;ville de Marseille;Acteur public
+NODE;ville de Marseille;Acteur public
+NODE;ville de Massy;Acteur public
+NODE;ville de Méru;Acteur public
+NODE;ville de Metz;Acteur public
+NODE;ville de Mézieux;Acteur public
+NODE;ville de Montélimar;Acteur public
+NODE;ville de Montpellier;Acteur public
+NODE;ville de Montrouge;Acteur public
+NODE;ville de Morzine-Avoriaz;Acteur public
+NODE;ville de Mulhouse;Acteur public
+NODE;ville de Mulhouse;Acteur public
+NODE;ville de Nancy;Acteur public
+NODE;ville de Nice;Acteur public
+NODE;ville de Nice;Acteur public
+NODE;ville de Nice;Acteur public
+NODE;ville de Nime;Acteur public
+NODE;ville de Nîmes;Acteur public
+NODE;ville de Paris;Acteur public
+NODE;ville de Paris;Acteur public
+NODE;ville de Paris;Acteur public
+NODE;ville de Pau;Acteur public
+NODE;ville de Perret;Acteur public
+NODE;ville de Pierrefitte;Acteur public
+NODE;ville de Puteaux;Acteur public
+NODE;ville de Quimper;Acteur public
+NODE;ville de Rennes;Acteur public
+NODE;ville de Roanne;Acteur public
+NODE;ville de Rueil Malmaison;Acteur public
+NODE;ville de Saint-Brieuc;Acteur public
+NODE;ville de Saint­-Etienne;Acteur public
+NODE;ville de Saint-Etienne;Acteur public
+NODE;ville de Saint-Maur-des-Fossés;Acteur public
+NODE;ville de Saint-Tropez;Acteur public
+NODE;ville de Saint-Tropez;Acteur public
+NODE;ville de Saint-Denis;Acteur public
+NODE;ville de Strasbourg;Acteur public
+NODE;ville de Sucy en brie;Acteur public
+NODE;ville de Suresnes;Acteur public
+NODE;ville de Toulon;Acteur public
+NODE;ville de Tourcoing;Acteur public
+NODE;ville de Tremblay en France;Acteur public
+NODE;ville de Troyes;Acteur public
+NODE;ville de Valbonne Sophia Antipolis;Acteur public
+NODE;ville de Valence;Acteur public
+NODE;ville de Vannes;Acteur public
+NODE;ville de Versailles;Acteur public
+NODE;ville de Vienne;Acteur public
+NODE;ville de Villeneuve-sur-Lot;Acteur public
+NODE;ville de Villeurbanne;Acteur public
+NODE;ville de Vincennes;Acteur public
+NODE;ville d'Ollioules;Acteur public
+NODE;ville du Havre;Acteur public
+NODE;ville du Kremlin-Bicêtre;Acteur public
+NODE;La défense;Acteur public
+NODE;ACEL GENESYS;Acteur privé
+NODE;ACTI;Acteur privé
+NODE;ACTIA;Acteur privé
+NODE;ACT’IV;Acteur privé
+NODE;ADVANCED PROJECTS CONSULTING;Acteur privé
+NODE;ALTETIA;Acteur privé
+NODE;ALTRNATIV;Acteur privé
+NODE;ALTROS INGÉNIERIE;Acteur privé
+NODE;ALYCE;Acteur privé
+NODE;AMBIENT.AI;Acteur privé
+NODE;APEX SOLUTIONS;Acteur privé
+NODE;APHELIO;Acteur privé
+NODE;ARASTELLE;Acteur privé
+NODE;ARDANTI DEFENSE;Acteur privé
+NODE;ARITECH;Acteur privé
+NODE;ASC ELECTRONIQUE;Acteur privé
+NODE;ATOS;Acteur privé
+NODE;ATTRYA;Acteur privé
+NODE;AVESCOM;Acteur privé
+NODE;AVM INTEGRATION;Acteur privé
+NODE;AV PROTEC;Acteur privé
+NODE;AXIS COMMUNICATIONS;Acteur privé
+NODE;AZURSOFT;Acteur privé
+NODE;BARKENE;Acteur privé
+NODE;BOSCH SECURITY;Acteur privé
+NODE;BRIEFCAM;Acteur privé
+NODE;CABINET D’AVOCATS DU MANOIR DE JUAYE;Acteur privé
+NODE;CAMTRACE;Acteur privé
+NODE;CAP SECURITE;Acteur privé
+NODE;CASD;Acteur privé
+NODE;CEIS;Acteur privé
+NODE;CELLEBRITE;Acteur privé
+NODE;CELLHIRE;Acteur privé
+NODE;CHAPSVISION;Acteur privé
+NODE;CHOUETTE CONSULTING;Acteur privé
+NODE;CHUBB FIRE AND SECURITY;Acteur privé
+NODE;CITEOS;Acteur privé
+NODE;CITYPROTECT;Acteur privé
+NODE;CNM INTERNATIONAL;Acteur privé
+NODE;COJITECH;Acteur privé
+NODE;COMMEND;Acteur privé
+NODE;CONECTIS BY REXEL;Acteur privé
+NODE;DAHUA;Acteur privé
+NODE;DALKIA ELECTROTECHNIC CITELUM;Acteur privé
+NODE;DALLMEIER ELECTRONIC;Acteur privé
+NODE;DERICHEBOURG – TECHNOLOGIES;Acteur privé
+NODE;DETER SYSTEM;Acteur privé
+NODE;DISAITEK;Acteur privé
+NODE;EBOO SOLUTIONS;Acteur privé
+NODE;E-CONEX;Acteur privé
+NODE;ECONNECT;Acteur privé
+NODE;EGIDIUM;Acteur privé
+NODE;EIFFAGE ENERGIE SYSTEMES;Acteur privé
+NODE;EIZO France;Acteur privé
+NODE;EQUANS;Acteur privé
+NODE;ERYMA;Acteur privé
+NODE;ERYMA / SOGETREL;Acteur privé
+NODE;EVIDEN;Acteur privé
+NODE;EVITECH;Acteur privé
+NODE;FAIRVIEW;Acteur privé
+NODE;FEEDER;Acteur privé
+NODE;FIDUCIAL SECURITE;Acteur privé
+NODE;FORMIND;Acteur privé
+NODE;FOXSTREAM;Acteur privé
+NODE;FRANCOFA-EURODIS;Acteur privé
+NODE;GAARD;Acteur privé
+NODE;GAVEAU A.M.O.;Acteur privé
+NODE;GEMALTO;Acteur privé
+NODE;GENETEC;Acteur privé
+NODE;GIORDANA INGENIERIE;Acteur privé
+NODE;GOSECURE;Acteur privé
+NODE;GROUPE PERIN SÉCURITÉ;Acteur privé
+NODE;HANWHA TECHWIN;Acteur privé
+NODE;HARPER INGENIERIE;Acteur privé
+NODE;HCD;Acteur privé
+NODE;HIKVISION;Acteur privé
+NODE;HUAWEI;Acteur privé
+NODE;IBS’ON;Acteur privé
+NODE;IDEMIA;Acteur privé
+NODE;IDEMIA IDENTITY SECURITY;Acteur privé
+NODE;IER;Acteur privé
+NODE;IFOTEC;Acteur privé
+NODE;INCORESOFT;Acteur privé
+NODE;INFINOVA;Acteur privé
+NODE;INKIVARI;Acteur privé
+NODE;INLO;Acteur privé
+NODE;INOA SOLUTIONS;Acteur privé
+NODE;INVISSYS;Acteur privé
+NODE;IPARTNER;Acteur privé
+NODE;I-PRO;Acteur privé
+NODE;IPSOTEK;Acteur privé
+NODE;ISS PARTNERS;Acteur privé
+NODE;JF SULZER CONSEIL;Acteur privé
+NODE;JOHN COCKERILL DEFENSE;Acteur privé
+NODE;JUST DO IP;Acteur privé
+NODE;LA ROBE NUMERIQUE;Acteur privé
+NODE;LILATECH;Acteur privé
+NODE;LM INGENIERIE;Acteur privé
+NODE;LOGIROAD;Acteur privé
+NODE;LOOPGRADE;Acteur privé
+NODE;LOSANGE;Acteur privé
+NODE;LUMATECH SOLUTIONS & SERVICES;Acteur privé
+NODE;MIDGARD;Acteur privé
+NODE;MILEO TECHNOLOGY;Acteur privé
+NODE;MILESTONE;Acteur privé
+NODE;MOTOROLA SOLUTIONS;Acteur privé
+NODE;NEOVYA MOBILITY BY TECHNOLOGY;Acteur privé
+NODE;NETWORK OPTIX;Acteur privé
+NODE;NEURONALYS;Acteur privé
+NODE;NGE CONNECT;Acteur privé
+NODE;OBS-EVIDENT;Acteur privé
+NODE;O’MALLEY CONSULTING;Acteur privé
+NODE;OMNILERT;Acteur privé
+NODE;OMNITECH SECURITY;Acteur privé
+NODE;ONDO ENERGIES;Acteur privé
+NODE;ONEBERRY;Acteur privé
+NODE;ONET SECURITE SYSTEMES;Acteur privé
+NODE;OPTEX SECURITY;Acteur privé
+NODE;OPTIMEX DATA;Acteur privé
+NODE;ORKIS;Acteur privé
+NODE;PA CONSEIL;Acteur privé
+NODE;PASCAL MEHEUX;Acteur privé
+NODE;PELCO;Acteur privé
+NODE;PNY TECHNOLOGIES;Acteur privé
+NODE;PROCONSULTING;Acteur privé
+NODE;PRYNTEC – GROUPE TEB;Acteur privé
+NODE;PRYSM;Acteur privé
+NODE;PRYSM SOFTWARE;Acteur privé
+NODE;RECONEYEZ;Acteur privé
+NODE;RESO;Acteur privé
+NODE;RISÔM;Acteur privé
+NODE;RIVIERA PERFORMANCE CONSULTING;Acteur privé
+NODE;SDCT;Acteur privé
+NODE;SECURE CONSEIL;Acteur privé
+NODE;SECURE SYSTEMS & SERVICES;Acteur privé
+NODE;SECURITON;Acteur privé
+NODE;SERENICITY;Acteur privé
+NODE;SERFIM T.I.C.;Acteur privé
+NODE;SERIS SECURITY;Acteur privé
+NODE;SFC ENERGY AG;Acteur privé
+NODE;SIALERT / SENSIVIC;Acteur privé
+NODE;SIEMENS;Acteur privé
+NODE;SIMONS VOSS TECHNOLOGIES;Acteur privé
+NODE;SIMPLE HELP;Acteur privé
+NODE;SIRADEL;Acteur privé
+NODE;SLAT;Acteur privé
+NODE;SNEF;Acteur privé
+NODE;SOBECA GROUPE FIRALP;Acteur privé
+NODE;SPIE CITYNETWORKS;Acteur privé
+NODE;STALICO-GR TECHNICS;Acteur privé
+NODE;STANDBY;Acteur privé
+NODE;STID;Acteur privé
+NODE;STRATEGIE CONCEPT;Acteur privé
+NODE;SUR&TIS REGIONS;Acteur privé
+NODE;SURVISION;Acteur privé
+NODE;SYNOLOGY;Acteur privé
+NODE;SYPULSE;Acteur privé
+NODE;TACTIS;Acteur privé
+NODE;TATTILE;Acteur privé
+NODE;TECHNIMAST;Acteur privé
+NODE;THALES;Acteur privé
+NODE;THEMYS;Acteur privé
+NODE;TRACOR;Acteur privé
+NODE;TRANSOFT SOLUTIONS;Acteur privé
+NODE;TWO-I;Acteur privé
+NODE;ULTINOUS;Acteur privé
+NODE;UNI-SAT;Acteur privé
+NODE;VAIDIO;Acteur privé
+NODE;VDSYS;Acteur privé
+NODE;VEESION;Acteur privé
+NODE;VERKADA;Acteur privé
+NODE;VIDEOTECH;Acteur privé
+NODE;VIDETICS;Acteur privé
+NODE;VIISIGHTS;Acteur privé
+NODE;VIZZIA;Acteur privé
+NODE;VXCORE – MA2;Acteur privé
+NODE;WARYME;Acteur privé
+NODE;WINTICS;Acteur privé
+NODE;XP-GUYON;Acteur privé
+NODE;XXII GROUP;Acteur privé
+NODE;AN2V;Association professionnelle
+NODE;PERIFEM;Association professionnelle
+NODE;GICAT;Association professionnelle
+NODE;GICAN;Association professionnelle
+NODE;Éric Léandri;actionnaire
+NODE;CANON;actionnaire
+NODE;ATOS;actionnaire
+NODE;BOLLORE;actionnaire
+NODE;CMA CGM;actionnaire
+NODE;BOUYGUES;actionnaire
