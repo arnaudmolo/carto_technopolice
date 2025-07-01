@@ -1,3 +1,7 @@
 networkx
 matplotlib
 pyvis
+playwright
+readability-lxml
+bs4
+asyncio

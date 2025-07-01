@@ -1,0 +1,411 @@
+source,target,type,url
+ADP,WINTICS,a pour client,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+Aéroport de Beauvais,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+Aéroport de Mérignac,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+Communauté de commune de Versailles,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+Communauté de communes de Nantes,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+Communauté de communes Drôme Sud Provence,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+Communauté de communes Grand Paris Sud,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+Ministère de l'Intérieur,WINTICS,a pour client,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+Monaco,WINTICS,a pour client,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+Préfecture de Police de Paris,WINTICS,a pour client,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+Préfecture de Police de Paris,AVM INTEGRATION,a pour client,fiche_15485_Presentation_AVM.pdf
+Préfecture de Police de Paris,EQUANS,a pour client,fiche_19771_Presentation_Generale_Equans_Digital_(avec_pôles).pdf
+Préfecture du Rhône,EQUANS,a pour client,fiche_19771_Interconnexion_video_BELVEDERE_-_plaquette_commerciale_v3.pdf
+RATP,WINTICS,a pour client,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information|https://www.senat.fr/rap/r24-374/r24-3745.html#fnref22
+RATP,EQUANS,a pour client,https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+RATP,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=775663438#&fiche=W3UW57YV
+SNCF,WINTICS,a pour client,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information|https://www.senat.fr/rap/r24-374/r24-3745.html#fnref22
+SNCF,THEMYS,a pour client,https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+SNCF,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=H659245363#&fiche=Y3K4FXKH
+ville d'Aix en Provence,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville d'Ajaccio,AVM INTEGRATION,a pour client,fiche_15485_Presentation_AVM.pdf
+ville d'Annemasse,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville d'Antibes,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville d'Arras,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville d'Athis-Mons,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville de Bé­thune,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Bonifacio,VIZZIA,a pour client,https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+ville de Bordeaux,IER,a pour client,https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+ville de Bourg-en-Bresse,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Bourges,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville de Calais,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Cannes,VIDETICS,est utilisé par,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+ville de Cannes,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Chalon-sur-Saône,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Chambéry,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Chamonix,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Chanteloup les vignes,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Chartres Métropole,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Chatou,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Colmar,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Courchevel,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Donzère,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville de Douai,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Dunkerque,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Garges-lès-Gonesse,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville de Grand Nancy,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Grenoble,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Juvisy sur orge,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de La Baule,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de La garennes colombes,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Laval,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Levallois,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Libourne,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Lille,EQUANS,a pour client,https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+ville de Lyon,IER,a pour client,https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+ville de Lyon,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Malakoff,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Marseille,EQUANS,a pour client,fiche_19771_Presentation_Generale_Equans_Digital_(avec_pôles).pdf
+ville de Marseille,SNEF,a pour client,https://gomet.net/snef-connect-marseille-porte-par-le-marche-de-la-videoprotection-urbaine/
+ville de Massy,XXII GROUP,a pour client,https://www.ugap.fr/xxii-f17412
+ville de Méru,VIZZIA,a pour client,https://mamot.fr/@LaQuadrature/113401936237955107
+ville de Metz,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Mézieux,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Montélimar,VIZZIA,a pour client,https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+ville de Montpellier,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Montrouge,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Morzine-Avoriaz,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Mulhouse,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville de Mulhouse,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Nancy,IER,a pour client,https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+ville de Nice,IER,a pour client,https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+ville de Nice,WINTICS,a pour client,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+ville de Nice,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Nime,WINTICS,a pour client,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+ville de Nîmes,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Paris,IER,a pour client,https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+ville de Paris,VIZZIA,a pour client,https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+ville de Paris,WINTICS,a pour client,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+ville de Pau,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Perret,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Pierrefitte,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Puteaux,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Quimper,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Rennes,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Roanne,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Rueil Malmaison,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Saint-Brieuc,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Saint­-Etienne,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Saint-Etienne,EQUANS,a pour client,https://www.ugap.fr/ineo-f19771
+ville de Saint-Maur-des-Fossés,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Saint-Tropez,VIZZIA,a pour client,https://www.vizzia.com/nos-references|https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+ville de Saint-Tropez,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Saint-Denis,TWO-I,est utilisé par,https://www.mediapart.fr/journal/france/300724/en-catimini-saint-denis-achete-un-logiciel-de-surveillance-algorithmique
+ville de Strasbourg,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Sucy en brie,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Suresnes,XXII GROUP,a pour client,https://www.leparisien.fr/hauts-de-seine-92/suresnes-92150/dans-les-rues-de-suresnes-l-intelligence-artificielle-prete-a-traquer-les-comportements-suspects-03-04-2021-8430581.php
+ville de Toulon,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Tourcoing,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Tremblay en France,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville de Troyes,IER,a pour client,https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+ville de Valbonne Sophia Antipolis,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville de Valence,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Vannes,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Versailles,IER,a pour client,https://www.ugap.fr/editeurs-logiciels/impression-enregistre-resultat-ier-f2137
+ville de Vienne,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Villeneuve-sur-Lot,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville de Villeurbanne,CASD,a pour client,fiche_17224_CASD_plaquette.pdf
+ville de Vincennes,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+ville d'Ollioules,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+ville du Havre,VIZZIA,a pour client,https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+ville du Kremlin-Bicêtre,AVM INTEGRATION,a pour client,fiche_15485_Références_CAPT_IMMAT.pdf
+La défense,THALES,est utilisé par,https://www.defense-92.fr/securite/thales-veut-rendre-le-quartier-de-la-defense-plus-sur-avec-sa-solution-safe-city-51211
+ACEL GENESYS,AN2V,est membre,https://an2v.org/membres/
+ACTI,cameras,est fabriquant de,https://www.acti.com/technologies/face-recognition
+ACTIA,AN2V,est membre,https://an2v.org/membres/
+ACTIA,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+ACTIA,VMS - hyperviseur,fonctionnalité,
+ACTIA,WINTICS,fonctionne avec,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+ACT’IV,AN2V,est membre,https://an2v.org/membres/
+ADVANCED PROJECTS CONSULTING,AN2V,est membre,https://an2v.org/membres/
+ALTETIA,AN2V,est membre,https://an2v.org/membres/
+ALTRNATIV,UGAP,est fourni par,https://www.ugap.fr/altrnativ-f19315
+ALTRNATIV,Éric Léandri,a pour actionnaire,https://www.hatvp.fr/fiche-organisation/?organisation=884983958
+ALTRNATIV,TWO-I,est sous-traitant de,https://www.streetpress.com/sujet/1730128027-mairie-saint-denis-mathieu-hanotin-video-surveillance-algorithmique-logiciel-cameras-technologie-intelligence-artificielle
+ALTRNATIV,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=533445318#&fiche=O3WXO0KH|https://www.hatvp.fr/fiche-organisation/?organisation=818007288
+ALTRNATIV,CEIS,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=414881821
+ALTROS INGÉNIERIE,AN2V,est membre,https://an2v.org/membres/
+ALYCE,AN2V,est membre,https://an2v.org/membres/
+ALYCE,UGAP,est fourni par,https://www.ugap.fr/alyce-f17652
+AMBIENT.AI,GENETEC,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/ambient.ai/integration
+AMBIENT.AI,VSA,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/ambient.ai/integration
+APEX SOLUTIONS,AN2V,est membre,https://an2v.org/membres/
+APHELIO,AN2V,est membre,https://an2v.org/membres/
+ARASTELLE,AN2V,est membre,https://an2v.org/membres/
+ARDANTI DEFENSE,AN2V,est membre,https://an2v.org/membres/
+ARDANTI DEFENSE,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+ARITECH,AN2V,est membre,https://an2v.org/membres/
+ASC ELECTRONIQUE,AN2V,est membre,https://an2v.org/membres/
+ATOS,EVIDEN,a pour actionnaire,https://atos.net/fr/2025/communiques-de-presse_2025_02_24/eviden-devoile-une-nouvelle-generation-de-serveurs-dentreprise-pour-lia-et-les-applications-critiques
+ATOS,IPSOTEK,a pour actionnaire,https://www.laquadrature.net/2024/01/26/vsa-et-jeux-olympiques-coup-denvoi-pour-les-entreprises-de-surveillance/
+ATOS,CEIS,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=414881821
+ATOS,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+ATTRYA,AN2V,est membre,https://an2v.org/membres/
+AVESCOM,AN2V,est membre,https://an2v.org/membres/
+AVM INTEGRATION,UGAP,est fourni par,https://www.ugap.fr/avm-f15485
+AVM INTEGRATION,vidéo verbalisation,fonctionnalité,https://www.avm-integration.com/wp-content/uploads/2019/03/AVM-CAPT-IMMAT-2017-min.pdf
+AVM INTEGRATION,GENETEC,fonctionne avec,https://www.avm-integration.com/partenaires/genetec/
+AV PROTEC,AN2V,est membre,https://an2v.org/membres/
+AXIS COMMUNICATIONS,AN2V,est membre,https://an2v.org/membres/
+AXIS COMMUNICATIONS,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+AXIS COMMUNICATIONS,cameras,est fabriquant de,https://www.milestonesys.com/fr/technology-partner-finder/axis-communications/
+AXIS COMMUNICATIONS,MILESTONE,fonctionne avec,https://www.milestonesys.com/fr/technology-partner-finder/axis-communications/
+AXIS COMMUNICATIONS,THEMYS,a pour client,https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+AXIS COMMUNICATIONS,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+AZURSOFT,AN2V,est membre,https://an2v.org/membres/
+AZURSOFT,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+BARKENE,AN2V,est membre,https://an2v.org/membres/
+BOSCH SECURITY,UGAP,est fourni par,https://www.ugap.fr/bosch-f16765
+BOSCH SECURITY,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+BOSCH SECURITY,MILESTONE,fonctionne avec,https://www.milestonesys.com/fr/technology-partner-finder/bosch-security-systems-b.v/bosch-object-detection--ai-alarm-verification/
+BOSCH SECURITY,GENETEC,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/bosch
+BOSCH SECURITY,Cameras,est fabriquant de,https://www.genetec.com/partners/partner-integration-hub/bosch
+BOSCH SECURITY,VSA - traffic,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/bosch/video-analytics-its
+BOSCH SECURITY,THEMYS,a pour client,https://www.themysgroup.com/our-solutions-cctv-et-optronics-w1.html
+BRIEFCAM,UGAP,est fourni par,https://www.ugap.fr/canon-f17548
+BRIEFCAM,CANON,a pour actionnaire,https://www.ugap.fr/canon-f17548
+BRIEFCAM,GENETEC,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/briefcam/briefcam
+BRIEFCAM,Analyse vidéo,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/briefcam/briefcam|fiche_17548_BriefCamV6_FR_\(1\).pdf
+BRIEFCAM,reconnaissance faciale,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/briefcam/briefcam|fiche_17548_BriefCamV6_FR_\(1\).pdf
+CABINET D’AVOCATS DU MANOIR DE JUAYE,AN2V,est membre,https://an2v.org/membres/
+CAMTRACE,AN2V,est membre,https://an2v.org/membres/
+CAP SECURITE,AN2V,est membre,https://an2v.org/membres/
+CASD,AN2V,est membre,https://an2v.org/membres/
+CASD,UGAP,est fourni par,https://www.ugap.fr/casd-f17224
+CASD,vidéo verbalisation,fonctionnalité,fiche_17224_CASD_plaquette.pdf
+CASD,VMS - hyperviseur,fonctionnalité,https://www.ugap.fr/casd-f17224
+CASD,WINTICS,fonctionne avec,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+CEIS,THALES,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=414881821
+CEIS,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=813595477
+CELLEBRITE,UGAP,est fourni par,https://www.ugap.fr/cellebrite-f16984
+CELLEBRITE,exploitation téléphone portable,fonctionnalité,https://fr.wikipedia.org/wiki/Cellebrite
+CELLHIRE,AN2V,est membre,https://an2v.org/membres/
+CHAPSVISION,AN2V,est membre,https://an2v.org/membres/
+CHAPSVISION,HATVP,fait du lobbbying,https://www.hatvp.fr/fiche-organisation/?organisation=890232788#&fiche=UHQ7N0FV
+CHAPSVISION,Marché JOP,a candidaté,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+CHAPSVISION,UGAP,est fourni par,https://www.ugap.fr/flandrin-f17411
+CHAPSVISION,VSA,fonctionnalité,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+CHAPSVISION,Logiciel d'investigation,fonctionnalité,https://www.ugap.fr/flandrin-f17411
+CHAPSVISION,IMSI Catchers,fonctionnalité,https://www.ugap.fr/flandrin-f17411
+CHOUETTE CONSULTING,AN2V,est membre,https://an2v.org/membres/
+CHUBB FIRE AND SECURITY,AN2V,est membre,https://an2v.org/membres/
+CITEOS,AN2V,est membre,https://an2v.org/membres/
+CITEOS,VIZZIA,a pour client,https://www.vizzia.com/nos-references
+CITYPROTECT,AN2V,est membre,https://an2v.org/membres/
+CNM INTERNATIONAL,AN2V,est membre,https://an2v.org/membres/
+COJITECH,AN2V,est membre,https://an2v.org/membres/
+COMMEND,AN2V,est membre,https://an2v.org/membres/
+CONECTIS BY REXEL,AN2V,est membre,https://an2v.org/membres/
+DAHUA,AN2V,est membre,https://an2v.org/membres/
+DAHUA,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+DALKIA ELECTROTECHNIC CITELUM,AN2V,est membre,https://an2v.org/membres/
+DALLMEIER ELECTRONIC,AN2V,est membre,https://an2v.org/membres/
+DERICHEBOURG – TECHNOLOGIES,AN2V,est membre,https://an2v.org/membres/
+DETER SYSTEM,AN2V,est membre,https://an2v.org/membres/
+DISAITEK,UGAP,est fourni par,https://www.ugap.fr/disaitek-f19394
+EBOO SOLUTIONS,AN2V,est membre,https://an2v.org/membres/
+E-CONEX,AN2V,est membre,https://an2v.org/membres/
+ECONNECT,GENETEC,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/econnect
+ECONNECT,reconnaissance faciale,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/econnect
+EGIDIUM,VMS - hyperviseur,fonctionnalité,
+EGIDIUM,WINTICS,fonctionne avec,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+EGIDIUM,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EIFFAGE ENERGIE SYSTEMES,AN2V,est membre,https://an2v.org/membres/
+EIZO France,AN2V,est membre,https://an2v.org/membres/
+EQUANS,AN2V,est membre,https://an2v.org/membres/
+EQUANS,UGAP,est fourni par,https://www.ugap.fr/ineo-f19771
+EQUANS,MILESTONE,est intégrateur de,https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+EQUANS,BOUYGUES,a pour actionnaire,https://www.equans.fr/nous-decouvrir/qui-sommes-nous/histoire
+EQUANS,interconnexion vidéo,fonctionnalité,https://www.ugap.fr/editeurs-logiciels/ineo-tinea-f19771
+EQUANS,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+EQUANS,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=892318312|https://www.hatvp.fr/fiche-organisation/?organisation=572015246#&fiche=0VES6OEH
+ERYMA,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+ERYMA / SOGETREL,AN2V,est membre,https://an2v.org/membres/
+EVIDEN,AN2V,est membre,https://an2v.org/membres/
+EVIDEN,GICAN,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=784360109
+EVITECH,AN2V,est membre,https://an2v.org/membres/
+FAIRVIEW,AN2V,est membre,https://an2v.org/membres/
+FEEDER,AN2V,est membre,https://an2v.org/membres/
+FIDUCIAL SECURITE,AN2V,est membre,https://an2v.org/membres/
+FIDUCIAL SECURITE,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+FORMIND,AN2V,est membre,https://an2v.org/membres/
+FOXSTREAM,AN2V,est membre,https://an2v.org/membres/
+FRANCOFA-EURODIS,AN2V,est membre,https://an2v.org/membres/
+GAARD,AN2V,est membre,https://an2v.org/membres/
+GAVEAU A.M.O.,AN2V,est membre,https://an2v.org/membres/
+GEMALTO,reconnaissance faciale,fonctionnalité,https://www2.assemblee-nationale.fr/content/download/82754/922439/version/1/file/Note+Scientifique+-+Reconnaissance+Faciale+-+VF+19072019.pdf
+GEMALTO,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=502999626#&fiche=19V0ML5H
+GENETEC,PERIFEM,est membre de,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+GENETEC,VMS - hyperviseur,fonctionnalité,
+GENETEC,WINTICS,fonctionne avec,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+GENETEC,XXII GROUP,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/xxii
+GENETEC,ULTINOUS,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/ultinous
+GENETEC,VIISIGHTS,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/viisights
+GENETEC,ONEBERRY,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/oneberry
+GENETEC,VAIDIO,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/ironyun/vaidio
+GENETEC,OMNILERT,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/omnilert/omnilert-gun-detect
+GENETEC,I-PRO,fonctionne avec,https://www.genetec.com/partners/partner-integration-hub/i-pro/activeguard
+GIORDANA INGENIERIE,AN2V,est membre,https://an2v.org/membres/
+GOSECURE,AN2V,est membre,https://an2v.org/membres/
+GROUPE PERIN SÉCURITÉ,AN2V,est membre,https://an2v.org/membres/
+GROUPE PERIN SÉCURITÉ,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+HANWHA TECHWIN,AN2V,est membre,https://an2v.org/membres/
+HANWHA TECHWIN,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+HARPER INGENIERIE,AN2V,est membre,https://an2v.org/membres/
+HCD,AN2V,est membre,https://an2v.org/membres/
+HIKVISION,AN2V,est membre,https://an2v.org/membres/
+HIKVISION,PERIFEM,est membre de,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+HIKVISION,cameras,est fabriquant de,https://www.hikvision.com/fr/core-technologies/ai-analytics/facial-recognition/
+HUAWEI,ville de Valenciennes,est utilisé par,https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/cion-cedu/l16cion-cedu2223034_compte-rendu
+IBS’ON,AN2V,est membre,https://an2v.org/membres/
+IDEMIA,reconnaissance faciale,fonctionnalité,https://www2.assemblee-nationale.fr/content/download/82754/922439/version/1/file/Note+Scientifique+-+Reconnaissance+Faciale+-+VF+19072019.pdf
+IDEMIA,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=340709534#&fiche=DVSJ8S8V
+IDEMIA IDENTITY SECURITY,UGAP,est fourni par,https://www.ugap.fr/idemia-f17257
+IDEMIA IDENTITY SECURITY,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+IER,UGAP,est fourni par,https://www.ugap.fr/impression-f2137
+IER,BOLLORE,a pour actionnaire,https://www.ugap.fr/impression-f2137
+IER,verbalisation électronique,fonctionnalité,https://www.ugap.fr/impression-f2137
+IFOTEC,AN2V,est membre,https://an2v.org/membres/
+INCORESOFT,MILESTONE,fonctionne avec,https://www.milestonesys.com/technology-partner-finder/incoresoft-llc/vezha-gender-and-age-detection/
+INCORESOFT,reconnaissance faciale,fonctionnalité,https://incoresoft.com/products/face-recognition/
+INFINOVA,cameras,est fabriquant de,https://issuu.com/securitymiddleeastmagazine/docs/sme_jan_feb_2019_web2/32
+INKIVARI,AN2V,est membre,https://an2v.org/membres/
+INLO,AN2V,est membre,https://an2v.org/membres/
+INOA SOLUTIONS,AN2V,est membre,https://an2v.org/membres/
+INVISSYS,AN2V,est membre,https://an2v.org/membres/
+IPARTNER,UGAP,est fourni par,https://www.ugap.fr/ipartner-f19445
+IPARTNER,vidéo verbalisation,fonctionnalité,fiche_19445_Fiche_produit_IPARTNER_VIDEOVERBALISATION_FR.pdf|fiche_19445_Fiche_produit_IPARTNER_DUTYLOG_FR.pdf
+IPARTNER,VMS - hyperviseur,fonctionnalité,https://www.ugap.fr/ipartner-f19445
+IPARTNER,MILESTONE,fonctionne avec,fiche_19445_Fiche_produit_IPARTNER_DATACONNECTOR_FR.pdf
+I-PRO,AN2V,est membre,https://an2v.org/membres/
+I-PRO,MILESTONE,fonctionne avec,https://www.milestonesys.com/fr/technology-partner-finder/i-pro--co.-ltd/i-pro-active-guard-plug-in-for-xprotect/
+I-PRO,Analyse vidéo,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/i-pro/activeguard
+I-PRO,reconnaissance faciale,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/i-pro/activeguard
+IPSOTEK,MILESTONE,fonctionne avec,https://www.milestonesys.com/technology-partner-finder/ipsotek-an-eviden-business/ipsotek-visuite-ai-video-analytics/
+IPSOTEK,VSA,fonctionnalité,https://www.milestonesys.com/technology-partner-finder/ipsotek-an-eviden-business/ipsotek-visuite-ai-video-analytics/
+ISS PARTNERS,AN2V,est membre,https://an2v.org/membres/
+JF SULZER CONSEIL,AN2V,est membre,https://an2v.org/membres/
+JOHN COCKERILL DEFENSE,AN2V,est membre,https://an2v.org/membres/
+JOHN COCKERILL DEFENSE,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+JUST DO IP,AN2V,est membre,https://an2v.org/membres/
+LA ROBE NUMERIQUE,AN2V,est membre,https://an2v.org/membres/
+LILATECH,AN2V,est membre,https://an2v.org/membres/
+LM INGENIERIE,AN2V,est membre,https://an2v.org/membres/
+LOGIROAD,UGAP,est fourni par,https://www.ugap.fr/logiroad-f17530
+LOOPGRADE,AN2V,est membre,https://an2v.org/membres/
+LOSANGE,AN2V,est membre,https://an2v.org/membres/
+LUMATECH SOLUTIONS & SERVICES,AN2V,est membre,https://an2v.org/membres/
+MIDGARD,UGAP,est fourni par,https://www.ugap.fr/midgard-f19346
+MILEO TECHNOLOGY,AN2V,est membre,https://an2v.org/membres/
+MILESTONE,UGAP,est fourni par,https://www.ugap.fr/milestone-f17070
+MILESTONE,VMS - hyperviseur,fonctionnalité,fiche_17070_Milestone_présentation.pdf
+MILESTONE,WINTICS,fonctionne avec,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+MILESTONE,XXII GROUP,fonctionne avec,https://www.milestonesys.com/technology-partner-finder/xxii/core/
+MILESTONE,VIISIGHTS,fonctionne avec,https://www.milestonesys.com/technology-partner-finder/viisights/viisights-wise-covid-19-plugin/
+MILESTONE,CANON,a pour actionnaire,fiche_17070_Milestone_présentation.pdf
+MOTOROLA SOLUTIONS,AN2V,est membre,https://an2v.org/membres/
+NEOVYA MOBILITY BY TECHNOLOGY,UGAP,est fourni par,https://www.ugap.fr/neovya-f19341
+NETWORK OPTIX,AN2V,est membre,https://an2v.org/membres/
+NEURONALYS,AN2V,est membre,https://an2v.org/membres/
+NGE CONNECT,AN2V,est membre,https://an2v.org/membres/
+OBS-EVIDENT,Marché JOP,a candidaté,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+O’MALLEY CONSULTING,AN2V,est membre,https://an2v.org/membres/
+OMNILERT,VSA,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/omnilert/omnilert-gun-detect
+OMNITECH SECURITY,AN2V,est membre,https://an2v.org/membres/
+ONDO ENERGIES,AN2V,est membre,https://an2v.org/membres/
+ONEBERRY,VSA,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/oneberry
+ONET SECURITE SYSTEMES,AN2V,est membre,https://an2v.org/membres/
+OPTEX SECURITY,AN2V,est membre,https://an2v.org/membres/
+OPTIMEX DATA,AN2V,est membre,https://an2v.org/membres/
+ORKIS,UGAP,est fourni par,https://www.ugap.fr/orkis-f16844
+ORKIS,reconnaissance faciale,fonctionnalité,https://www.ugap.fr/orkis-f16844
+PA CONSEIL,AN2V,est membre,https://an2v.org/membres/
+PASCAL MEHEUX,AN2V,est membre,https://an2v.org/membres/
+PELCO,cameras,est fabriquant de,https://www.pelco.com/partners/technical-partners/videoxpert-integrations/nevalabs-videoxpert-integration
+PNY TECHNOLOGIES,AN2V,est membre,https://an2v.org/membres/
+PROCONSULTING,AN2V,est membre,https://an2v.org/membres/
+PRYNTEC – GROUPE TEB,AN2V,est membre,https://an2v.org/membres/
+PRYSM,VMS - hyperviseur,fonctionnalité,
+PRYSM,WINTICS,fonctionne avec,https://www.ugap.fr/bff/bff-fiche-fournisseur-prod/api/v1/fiches/23787/documents/17729/actions/telecharger
+PRYSM SOFTWARE,AN2V,est membre,https://an2v.org/membres/
+RECONEYEZ,AN2V,est membre,https://an2v.org/membres/
+RESO,AN2V,est membre,https://an2v.org/membres/
+RISÔM,AN2V,est membre,https://an2v.org/membres/
+RIVIERA PERFORMANCE CONSULTING,AN2V,est membre,https://an2v.org/membres/
+SDCT,AN2V,est membre,https://an2v.org/membres/
+SECURE CONSEIL,AN2V,est membre,https://an2v.org/membres/
+SECURE SYSTEMS & SERVICES,AN2V,est membre,https://an2v.org/membres/
+SECURITON,AN2V,est membre,https://an2v.org/membres/
+SERENICITY,AN2V,est membre,https://an2v.org/membres/
+SERENICITY,Cyber Task Force,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=818007288#&fiche=DHMZ5MSV
+SERFIM T.I.C.,AN2V,est membre,https://an2v.org/membres/
+SERIS SECURITY,AN2V,est membre,https://an2v.org/membres/
+SERIS SECURITY,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+SFC ENERGY AG,AN2V,est membre,https://an2v.org/membres/
+SIALERT / SENSIVIC,AN2V,est membre,https://an2v.org/membres/
+SIEMENS,AN2V,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=562016774
+SIMONS VOSS TECHNOLOGIES,AN2V,est membre,https://an2v.org/membres/
+SIMPLE HELP,AN2V,est membre,https://an2v.org/membres/
+SIRADEL,UGAP,est fourni par,https://www.ugap.fr/siradel-f19859
+SLAT,AN2V,est membre,https://an2v.org/membres/
+SNEF,AN2V,est membre,https://an2v.org/membres/
+SNEF,UGAP,est fourni par,https://www.ugap.fr/snef-f7150
+SNEF,HATVP,fait du lobbbying,https://www.hatvp.fr/fiche-organisation/?organisation=537519449|https://www.hatvp.fr/fiche-organisation/?organisation=793795352#&fiche=LV1D00N3
+SOBECA GROUPE FIRALP,AN2V,est membre,https://an2v.org/membres/
+SPIE CITYNETWORKS,AN2V,est membre,https://an2v.org/membres/
+STALICO-GR TECHNICS,AN2V,est membre,https://an2v.org/membres/
+STANDBY,AN2V,est membre,https://an2v.org/membres/
+STID,AN2V,est membre,https://an2v.org/membres/
+STRATEGIE CONCEPT,AN2V,est membre,https://an2v.org/membres/
+SUR&TIS REGIONS,AN2V,est membre,https://an2v.org/membres/
+SURVISION,AN2V,est membre,https://an2v.org/membres/
+SYNOLOGY,AN2V,est membre,https://an2v.org/membres/
+SYPULSE,AN2V,est membre,https://an2v.org/membres/
+TACTIS,AN2V,est membre,https://an2v.org/membres/
+TATTILE,AN2V,est membre,https://an2v.org/membres/
+TECHNIMAST,AN2V,est membre,https://an2v.org/membres/
+THALES,Safe city,fonctionnalité,https://www.defense-92.fr/securite/thales-veut-rendre-le-quartier-de-la-defense-plus-sur-avec-sa-solution-safe-city-51211
+THALES,GICAT,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=344322722
+THALES,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=552059024
+THEMYS,VIDEOTECH,a pour client,https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+THEMYS,GICAN,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=784360109
+TRACOR,AN2V,est membre,https://an2v.org/membres/
+TRANSOFT SOLUTIONS,UGAP,est fourni par,https://www.ugap.fr/transoft-f18806
+TWO-I,AN2V,est membre,https://an2v.org/membres/
+TWO-I,reconnaissance faciale,fonctionnalité,https://www.mediapart.fr/journal/france/300724/en-catimini-saint-denis-achete-un-logiciel-de-surveillance-algorithmique
+ULTINOUS,VSA,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/ultinous/ai-suite
+UNI-SAT,AN2V,est membre,https://an2v.org/membres/
+VAIDIO,VSA,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/ironyun/vaidio
+VDSYS,AN2V,est membre,https://an2v.org/membres/
+VEESION,HATVP,fait du lobbying,https://www.hatvp.fr/le-repertoire/repertoire-resultats-activites/?searchbox=%22veesion%22
+VEESION,PERIFEM,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=321702755
+VERKADA,AN2V,est membre,https://an2v.org/membres/
+VIDEOTECH,cameras,est fabriquant de,https://www.themysgroup.com/details-videosurveillance+cameras-154.html
+VIDETICS,AN2V,est membre,https://an2v.org/membres/
+VIDETICS,Marché JOP,a candidaté,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+VIDETICS,UGAP,est fourni par,https://www.ugap.fr/editeurs-logiciels/videtics-f30434
+VIDETICS,VSA,fonctionnalité,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+VIISIGHTS,VSA,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/viisights
+VIZZIA,AN2V,est membre,https://an2v.org/membres/
+VIZZIA,UGAP,est fourni par,https://www.ugap.fr/editeurs-logiciels/alphaiota-vizzia-f31826
+VIZZIA,VSA,fonctionnalité,https://mamot.fr/@LaQuadrature/113401936237955107
+VXCORE – MA2,AN2V,est membre,https://an2v.org/membres/
+WARYME,AN2V,est membre,https://an2v.org/membres/
+WINTICS,AN2V,est membre,https://an2v.org/membres/
+WINTICS,Eiffage,est sous-traitant de,https://www.senat.fr/rap/r24-447/r24-447_mono.html
+WINTICS,Marché JOP,a candidaté,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information
+WINTICS,UGAP,est fourni par,https://www.ugap.fr/wintics-fiche_19383
+WINTICS,Vinci,est sous-traitant de,https://www.senat.fr/rap/r24-447/r24-447_mono.html
+WINTICS,VSA,fonctionnalité non fonctionnelle,https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b1156_rapport-information#_ftnref221
+XP-GUYON,AN2V,est membre,https://an2v.org/membres/
+XXII GROUP,AN2V,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=810761783
+XXII GROUP,reconnaissance faciale,fonctionnalité,https://www2.assemblee-nationale.fr/content/download/82754/922439/version/1/file/Note+Scientifique+-+Reconnaissance+Faciale+-+VF+19072019.pdf
+XXII GROUP,UGAP,est fourni par,https://www.ugap.fr/xxii-f17412
+XXII GROUP,VSA,fonctionnalité,https://www.genetec.com/partners/partner-integration-hub/xxii/xxiicore
+XXII GROUP,CMA CGM,a pour actionnaire,"https://www.lalettre.fr/fr/entreprises/2024/11/13/cma-cgm-entre-au-capital-de-la-start-up-xxii,110339136-bre"
+XXII GROUP,HATVP,fait du lobbying,https://www.hatvp.fr/le-repertoire/repertoire-resultats-activites/?searchbox=%22XXII%22
+AN2V,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=479807810##
+AN2V,CICS,est membre,https://www.hatvp.fr/fiche-organisation/?organisation=829519289
+PERIFEM,HATVP,fait du lobbying,https://www.hatvp.fr/fiche-organisation/?organisation=321702755#&fiche=QV7TJTFH
+CANON,HATVP,fait du lobbbying,https://www.hatvp.fr/fiche-organisation/?organisation=901812255#&fiche=0V2A7BOV
